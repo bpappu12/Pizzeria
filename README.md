@@ -1,0 +1,1 @@
+This project is a a semester-long project for Database Management where the goal was to create a fully functional database using SQL for a Pizzeria. The database tracks orders, stock, customers, and is able to produce insights using the information stored in the database.
